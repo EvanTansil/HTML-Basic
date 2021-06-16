@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang=en>
+<head><title> Evan Tansil Portfoli o</title></head>
+<body>
+<h1>Evan Tansil Portfolio<h1>
+<h2> Evan </h2>
+
+<p> Hello welcome to my portfolio. Where you can learn about my education and my work experience. If you would like to know more please contact me below.</p>
+
+<h2>contact us</h2>
+<ul>
+<li> etevan87@gmail.com</li>
+<li><a href=https://github.com/evantansil> Evan Tansil git hub</a></li>
+</ul>
+<div>
+<h2> Work experience</h2>
+<p></p>
+</div> 
+<div>
+<h2> Education</h2>
+<ul>
+</ul>
+<h2> Have a question?</h2>
+<form> <label for="Name" aria-label="name">Name</label>
+    <input type=text name="name" id="name" aria-label="full name">
+
+</body>
+</html>
